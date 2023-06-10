@@ -5,6 +5,7 @@
 - [Optimizing subroutines in assembly language by Agner Fog](https://www.agner.org/optimize/optimizing_assembly.pdf)
 - [Instruction table by Agner Fog](https://www.agner.org/optimize/instruction_tables.pdf)
 - [Andi Kleen's page](http://halobates.de/)
+- [Napkin math by Simon Eskildsen](https://github.com/sirupsen/napkin-math)
 
 ## Codes
 
