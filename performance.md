@@ -6,11 +6,13 @@
 - [Instruction table by Agner Fog](https://www.agner.org/optimize/instruction_tables.pdf)
 - [Andi Kleen's page](http://halobates.de/)
 - [Napkin math by Simon Eskildsen](https://github.com/sirupsen/napkin-math)
+- [cbloom rants](http://cbloomrants.blogspot.com/)
 
 ## Tools
 
 - [Cargo subcommand that displays the assembly or llvm-ir](https://github.com/gnzlbg/cargo-asm)
 - [bytehound: Memory profiler for Linux](https://github.com/koute/bytehound)
+- [Microbenchmarks GUI for CPU/GPU](https://github.com/clamchowder/MicrobenchmarksGui)
 
 ## Codes
 
