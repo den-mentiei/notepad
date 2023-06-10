@@ -1,6 +1,6 @@
 # Performance
 
-## Articles & papers
+## Papers and articles
 
 - [Optimizing subroutines in assembly language by Agner Fog](https://www.agner.org/optimize/optimizing_assembly.pdf)
 - [Instruction table by Agner Fog](https://www.agner.org/optimize/instruction_tables.pdf)
@@ -15,3 +15,4 @@
 ## Codes
 
 - [TurboPFor: Fastest Integer Compression](https://github.com/powturbo/TurboPFor-Integer-Compression)
+- [profiling: Thin macro abstraction for profiling Rust](https://github.com/aclysma/profiling)
