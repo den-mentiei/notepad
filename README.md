@@ -9,3 +9,4 @@ Scattered notes and links for topics of interest.
 - [Programming languages](pl.md)
 - [Rust](rust.md)
 - [Emacs](emacs.md)
+- [Random](random.md)

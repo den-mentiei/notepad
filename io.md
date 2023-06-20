@@ -4,6 +4,8 @@
 
 - [Lord of the io_uring](https://unixism.net/loti/)
 - [Files are hard](https://danluu.com/file-consistency/)
+- [Windows file caching](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742613(v=technet.10)?redirectedfrom=MSDN)
+- [cbloom on Windows caching](http://cbloomrants.blogspot.com/2008/10/10-07-08-2.html)
 
 ## Tools
 

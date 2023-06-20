@@ -10,6 +10,7 @@ Programming languages design & implementation, compilers, etc.
 - [MetaML: Multi-stage programming with explicit annotations](https://dl.acm.org/citation.cfm?id=259019)
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex)
 - [Bibliography on effects](https://github.com/yallop/effects-bibliography)
+- [Resugaring](https://raw.githubusercontent.com/justinpombrio/thesis/master/resugaring-thesis.pdf)
 
 ## Tools
 
