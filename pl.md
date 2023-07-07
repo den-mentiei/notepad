@@ -4,6 +4,14 @@ Programming languages design & implementation, compilers, etc.
 
 ## Papers and articles
 
+### Optimization
+
+- [Verifying optimizations using SMT solvers](https://llvm.org/devmtg/2013-11/slides/Lopes-SMT.pdf)
+
+### Effects
+
+- [Adding effect system to OCaml](https://www.janestreet.com/tech-talks/effective-programming/)
+
 ### Macros
 
 - [Macros as multi-stage computations: Type-safe, generative, binding macros in MacroML](https://dl.acm.org/citation.cfm?id=507646)
@@ -11,6 +19,7 @@ Programming languages design & implementation, compilers, etc.
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex)
 - [Bibliography on effects](https://github.com/yallop/effects-bibliography)
 - [Resugaring](https://raw.githubusercontent.com/justinpombrio/thesis/master/resugaring-thesis.pdf)
+- [Cinaps aka top-level codegen for OCaml](https://github.com/janestreet/cinaps)
 
 ## Tools
 
