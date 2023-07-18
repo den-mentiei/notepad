@@ -4,6 +4,9 @@ Programming languages design & implementation, compilers, etc.
 
 ## Papers and articles
 
+- [Mutable Value Semantics implementation](https://kyouko-taiga.github.io/assets/papers/jot2022-mvs.pdf)
+- [Destination-Passing style](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/dps-fhpc17.pdf)
+
 ### Optimization
 
 - [Verifying optimizations using SMT solvers](https://llvm.org/devmtg/2013-11/slides/Lopes-SMT.pdf)
@@ -35,3 +38,7 @@ Programming languages design & implementation, compilers, etc.
 - [wisp: Lisp in WASM](https://github.com/mbrock/wisp)
 - [nanopass: Scheme to x86 compiler](https://github.com/nobutaka/nanopass)
 - [LinearML: functional language for parallel programming](https://github.com/pikatchu/LinearML)
+
+## Discussions
+
+- [Zig location semantics](https://github.com/ziglang/zig/issues/287)
